@@ -2,7 +2,9 @@
 # Simulación y Mitigación de Ataques ARP Spoofing y CDP Flooding en un Ambiente Controlado
 
 **Matrícula:** 2024-1252
-**Asignatura:** Seguridad de Sistemas Operativos / Redes
+
+**Asignatura:** Seguridad de Redes
+
 **Entorno:** Laboratorio Virtual (GNS3/EVE-ng con Kali Linux y Cisco IOSv)
 
 ---
