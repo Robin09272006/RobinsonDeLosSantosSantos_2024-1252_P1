@@ -1,14 +1,3 @@
-Robinson
-# Simulación y Mitigación de Ataques ARP Spoofing y CDP Flooding en un Ambiente Controlado
-
-**Matrícula:** 2024-1252
-
-**Asignatura:** Seguridad de Redes
-
-**Entorno:** Laboratorio Virtual (GNS3/EVE-ng con Kali Linux y Cisco IOSv)
-
----
-
 ## 1. Objetivo de los Scripts
 
 El propósito de este conjunto de herramientas es demostrar las vulnerabilidades inherentes en protocolos de red que carecen de autenticación predeterminada.
